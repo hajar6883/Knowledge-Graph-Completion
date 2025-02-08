@@ -1,2 +1,1 @@
-# project_00
-GNNs for KGC
+exploring GNNs for KGC...
