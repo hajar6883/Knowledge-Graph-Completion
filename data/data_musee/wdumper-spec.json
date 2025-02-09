@@ -1,0 +1,1 @@
+{"version":"1","entities":[{"type":"item","properties":[{"property":"P347","rank":"non-deprecated","type":"anyvalue","value":null}]}],"samplingPercent":100,"statements":[{"properties":null,"rank":"all","simple":true,"full":false,"references":false,"qualifiers":false}],"sitelinks":true,"labels":true,"descriptions":true,"aliases":true,"languages":["en","fr"],"meta":true}
